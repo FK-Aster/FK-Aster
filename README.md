@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨
 
 -大家好呀！很高兴认识你们。
 - 我叫周凌宇，是个汉子。我来自内蒙古，可我并没有出生在大草原。
